@@ -48,6 +48,8 @@ The Excel dashboard provides:
 - Top-performing products and categories
 - Key performance indicators such as total sales and order count
 - The dashboard is designed to be clear and easy to interpret, allowing quick identification of trends and performance drivers.
+  <img width="1486" height="657" alt="image" src="https://github.com/user-attachments/assets/6ca535db-7e2e-4bfa-b9b2-3cf19e0f28c6" />
+
 
 ### 📂 Project Workflow
 
